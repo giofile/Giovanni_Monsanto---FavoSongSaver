@@ -7,7 +7,7 @@ const About = () => {
                  <br/>
                         <h5>Met de SongSaver App heeft u de mogelijkheid om u leukste liedjes op te slaan,
                             <br/> zodat u ze 
-                        niet kwijtraakt. U kunt een <br />waardering aangeven en tevens kunt ook liedjes verwijderen
+                        niet kwijtraakt. U kunt een <br />waardering aangeven en tevens kunt u ook liedjes verwijderen
                     </h5>
             </div>
     )
